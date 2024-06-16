@@ -1,0 +1,14 @@
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/bin/Debug/net8.0/NewTalents
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/bin/Debug/net8.0/NewTalents.deps.json
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/bin/Debug/net8.0/NewTalents.runtimeconfig.json
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/bin/Debug/net8.0/NewTalents.dll
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/bin/Debug/net8.0/NewTalents.pdb
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.GeneratedMSBuildEditorConfig.editorconfig
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfoInputs.cache
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.AssemblyInfo.cs
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.csproj.CoreCompileInputs.cache
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.dll
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/refint/NewTalents.dll
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.pdb
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/NewTalents.genruntimeconfig.cache
+/home/maykel/aulas-dev-geral/dio/projetosFinais/NewTalents/obj/Debug/net8.0/ref/NewTalents.dll
